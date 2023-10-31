@@ -2,7 +2,7 @@
 Based on TKazer's iteration on previous CS2 cheats. Modified several calls and added substantial amount of obfuscation and polymorphism in an effort to keep it safe from VACnet for the forseeable future. Also compiled and am only publishing the binary to keep the obfuscation methods as hidden as possible from Valve. At the very least, it should slow them down since debugging this will take a lot of work with out source. 
 
 # Download
-
+https://github.com/iceburglettuce12/Counter-Strike-2-Cheat/releases/download/v1.0.1/CS2_extern.zip
 # Functions
 + ESP (Bone, box, weapon)
 + Aimbot (with recoil control)
