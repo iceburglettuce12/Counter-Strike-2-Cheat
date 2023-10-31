@@ -3,6 +3,7 @@ Based on TKazer's iteration on previous CS2 cheats. Modified several calls and a
 
 # Download
 https://github.com/iceburglettuce12/Counter-Strike-2-Cheat/releases/download/v1.0.1/CS2_extern.zip
+<a target="_blank" href="https://imageupload.io/FIYrDm5BCNMHzyn"><img  src="https://imageupload.io/ib/As1c4Q8SNnxpA1k_1698737247.png" alt="cs2cheat.png"/></a>
 # Functions
 + ESP (Bone, box, weapon)
 + Aimbot (with recoil control)
